@@ -1,0 +1,2 @@
+This is the file i created to add some new file from bash command
+I should try to push this master and also origin master
